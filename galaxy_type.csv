@@ -1,0 +1,25 @@
+E0,Elliptical Galaxy E0,Nearly spherical elliptical galaxy.
+E1,Elliptical Galaxy E1,Slightly elongated elliptical galaxy.
+E2,Elliptical Galaxy E2,Moderately elongated elliptical galaxy.
+E3,Elliptical Galaxy E3,More elongated elliptical galaxy.
+E4,Elliptical Galaxy E4,Significantly elongated elliptical galaxy.
+E5,Elliptical Galax y E5,Highly elongated elliptical galaxy.
+E6,Elliptical Galaxy E6,Very highly elongated elliptical galaxy.
+E7,Elliptical Galaxy E7,Most elongated elliptical galaxy.
+S0,Lenticular Galaxy,Disk-like structure without prominent spiral arms.
+S0/a,Lenticular/Spiral Transition,Transition type between lenticular and spiral.
+Sa,Spiral Galaxy Sa,Tightly wound spiral arms with a large central bulge.
+Sb,Spiral Galaxy Sb,Moderately wound spiral arms with a medium-sized bulge.
+Sc,Spiral Galaxy Sc,Loosely wound spiral arms with a small central bulge.
+Sd,Spiral Galaxy Sd,Very loosely wound spiral arms, almost irregular, smaller bulge than Sc.
+SBa,Barred Spiral Galaxy SBa,Tightly wound spiral arms with a large bar.
+SBb,Barred Spiral Galaxy SBb,Moderately wound spiral arms with a medium-sized bar.
+SBc,Barred Spiral Galaxy SBc,Loosely wound spiral arms with a small bar.
+SBd,Barred Spiral Galaxy SBd,Very loosely wound spiral arms, almost irregular, small bar.
+Irr I,Irregular Galaxy Irr I,Irregular structure with some semblance of structure.
+Irr II,Irregular Galaxy Irr II,Completely chaotic structure without trace of spiral or elliptical forms.
+dE,Dwarf Elliptical,Smaller, less luminous elliptical galaxy.
+dSph,Dwarf Spheroidal,Small, faint, spheroidal galaxy.
+dIrr,Dwarf Irregular,Small, irregular galaxy.
+BCD,Blue Compact Dwarf,Small galaxies with intense star formation.
+ES,Elliptical/Spheroidal Transition,Transition type between elliptical and spheroidal.

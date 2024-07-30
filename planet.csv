@@ -1,0 +1,25 @@
+Mercury,Sun,0,FALSE,TRUE,0.055,87.97
+Venus,Sun,0,FALSE,TRUE,0.815,224.70
+Earth,Sun,1,TRUE,TRUE,1.0,365.25
+Mars,Sun,2,FALSE,TRUE,0.107,687.0
+Proxima Centauri b,Proxima Centauri,0,TRUE,TRUE,1.17,11.186
+Alpha Centauri Bb,Alpha Centauri A,0,FALSE,TRUE,0.046,3.236
+Barnard Star b,Barnard Star,0,FALSE,FALSE,3.2,233
+Wolf 359 c,Wolf 359,0,NULL,NULL,NULL
+Lalande 21185 b,Lalande 21185,0,NULL,TRUE,2.0,9.869
+Sirius c,Sirius A,0,NULL,NULL,NULL
+Luyten b,Luyten Star,0,FALSE,TRUE,2.89,18.652
+Ross 154 b,Ross 154,0,NULL,NULL,NULL
+Epsilon Eridani b,Epsilon Eridani,0,FALSE,FALSE,0.78,2502
+61 Cygni B b,61 Cygni B,0,FALSE,FALSE,0.16,63.4
+Tau Ceti e,Tau Ceti,0,TRUE,TRUE,4.29,162.87
+Altair b,Altair,0,NULL,NULL,NULL
+Vega b,Vega,0,NULL,NULL,NULL
+Gliese 581 c,Gliese 581,0,TRUE,TRUE,5.6,13.0
+Kepler-452b,Kepler-452,0,TRUE,TRUE,5,385
+Andromeda Cb,Andromeda A,0,NULL,NULL,NULL
+Andromeda Bc,Andromeda B,0,NULL,NULL,NULL
+Triangulum Ab,Triangulum A,0,NULL,NULL,NULL
+Triangulum Bc,Triangulum B,0,NULL,NULL,NULL
+NGC 6822 A b,NGC 6822 A,0,NULL,NULL,NULL
+NGC 147 A b,NGC 147 A,0,NULL,NULL,NULL

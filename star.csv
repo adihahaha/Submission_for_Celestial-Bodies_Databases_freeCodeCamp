@@ -1,0 +1,30 @@
+Sun,G,8,0,Milky Way
+Proxima Centauri,M,3,4.24,Milky Way
+Alpha Centauri A,G,1,4.37,Milky Way
+Alpha Centauri B,K,0,4.37,Milky Way
+Barnard Star,M,1,5.96,Milky Way
+Wolf 359,M,0,7.8,Milky Way
+Lalande 21185,M,2,8.29,Milky Way
+Sirius A,A,0,8.6,Milky Way
+Sirius B,A,0,8.6,Milky Way
+Luyten Star,M,1,12.36,Milky Way
+Ross 154,M,0,9.68,Milky Way
+Epsilon Eridani,K,1,10.5,Milky Way
+61 Cygni A,K,0,11.4,Milky Way
+61 Cygni B,K,0,11.4,Milky Way
+Tau Ceti,G,4,11.9,Milky Way
+Altair,A,0,16.7,Milky Way
+Vega,A,0,25.0,Milky Way
+Gliese 581,M,4,20.4,Milky Way
+Kepler-452,G,1,1400,Milky Way
+Andromeda A,K,NULL,2500000,Andromeda
+Andromeda B,F,NULL,2500000,Andromeda
+Messier 32 A,G,NULL,2500000,Messier 32
+Triangulum A,K,NULL,3000000,Triangulum
+Triangulum B,F,NULL,3000000,Triangulum
+NGC 6822 A,A,NULL,1600000,NGC 6822
+NGC 6822 B,M,NULL,1600000,NGC 6822
+NGC 185 A,K,NULL,2000000,NGC 185
+NGC 185 B,G,NULL,2000000,NGC 185
+NGC 147 A,M,NULL,2200000,NGC 147
+NGC 147 B,F,NULL,2200000,NGC 147
